@@ -1,0 +1,16 @@
+body { background-color: white;
+font-family: helvetica, sans-serif;
+}
+h1 { color: red;
+text-align: center;
+font-size: 50px;}
+h2 { color: red;}
+.small-image {width: 200px;
+border-color: grey;
+border-width: 5px;
+border-style: solid;
+border-radius: 50%;
+positio: relative;
+bottom: 10px;}
+p { text-align: center;}
+.left-align { text-align: left;}

@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head> <title> Happiness Sunday's CV </title> </head>
+<head> <title> Happiness Sunday's CV </title>
+<link href="Styles.css" rel="stylesheet" type="text/css" </head>
 <body> 
-<h1> HAPINESS SUNDAY </h1>
+<h1> HAPPINESS SUNDAY </h1>
 <p> 7 Babs Oshibeluwo street </p>
 <p> Akowonjo, Lagos </p>
 <p> (+234)8064536160 </p>
